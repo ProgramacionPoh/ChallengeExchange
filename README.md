@@ -2,7 +2,8 @@
 
 Conversor de Moneda
 
-Este proyecto es un simple conversor de moneda que utiliza la API de ExchangeRate-API para obtener las tasas de cambio en tiempo real y realizar conversiones entre diferentes monedas.
+Este proyecto es un simple conversor de moneda que utiliza la API de ExchangeRate-API para obtener las tasas de cambio en tiempo real 
+y realizar conversiones entre diferentes monedas.
 Requisitos
 
     Java 11 o superior
@@ -26,7 +27,8 @@ Características
 
 Contribuciones
 
-    Las contribuciones son bienvenidas. Si tienes alguna sugerencia de mejora o encuentras algún error, no dudes en crear un issue o enviar un pull request.
+    Las contribuciones son bienvenidas. Si tienes alguna sugerencia de mejora o encuentras algún error,
+    no dudes en crear un issue o enviar un pull request.
 
 Licencia
 
