@@ -15,6 +15,9 @@ Uso
     Ejecuta el archivo Main.java ubicado en src/com/aluracursos/exchange/principal/Main.java.
     Sigue las instrucciones en la consola para realizar las conversiones de moneda.
 
+![Imagen de la consola](https://github.com/ProgramacionPoh/ChallengeExchange/blob/master/src/com/aluracursos/exchange/img/consola.png?raw=true)
+![Imagen de la consola](https://github.com/ProgramacionPoh/ChallengeExchange/blob/master/src/com/aluracursos/exchange/img/conversor%20funcionando.png?raw=true)
+
 Características
 
     Convierte entre diferentes pares de monedas, incluyendo USD, ARS, BRL y COP.
@@ -23,4 +26,8 @@ Características
 
 Contribuciones
 
-Las contribuciones son bienvenidas. Si tienes alguna sugerencia de mejora o encuentras algún error, no dudes en crear un issue o enviar un pull request.
+    Las contribuciones son bienvenidas. Si tienes alguna sugerencia de mejora o encuentras algún error, no dudes en crear un issue o enviar un pull request.
+
+Licencia
+
+    Este proyecto está bajo la licencia MIT. Para más detalles, consulta el archivo LICENSE.
